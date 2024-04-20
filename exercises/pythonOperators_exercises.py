@@ -120,5 +120,6 @@ Exercise 10: Medieval Architecture
 
 castle_height = 100
 moat_width = 50
-dimensions = castle_height * 2 * moat_width
-print(dimensions)
+castle_height *= 2
+moat_width /= 2
+print(castle_height, moat_width)
