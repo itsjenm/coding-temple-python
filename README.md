@@ -3,7 +3,6 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<<<<<<< HEAD
 <h3 align="center">Project Title</h3>
 
 <div align="center">
@@ -12,19 +11,16 @@
 [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-=======
 <h3 align="center">Coding Temple Journey</h3>
 
 <div align="center">
 
 
->>>>>>> cf6cd1876d62254781f70bc4c39fbfdb43accdd2
 
 </div>
 
 ---
 
-<<<<<<< HEAD
 <p align="center"> Few lines describing your project.
     <br> 
 </p>
@@ -44,19 +40,16 @@
 ## 🧐 About <a name = "about"></a>
 
 Write about 1-2 paragraphs describing the purpose of your project.
-=======
 <p align="center"> Assignments and projects built with Coding Temple.
     <br> 
 </p>
 
 
->>>>>>> cf6cd1876d62254781f70bc4c39fbfdb43accdd2
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-<<<<<<< HEAD
 ### Prerequisites
 
 What things you need to install the software and how to install them.
@@ -129,7 +122,5 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
-=======
 
 
->>>>>>> cf6cd1876d62254781f70bc4c39fbfdb43accdd2
